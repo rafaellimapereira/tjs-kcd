@@ -1,0 +1,30 @@
+{
+  "name": "testing-js",
+  "version": "0.0.1",
+  "description": "small repo for practice testing javascript content from KCD course",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "jest ./src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rafaellimapereira/tjs-kcd.git"
+  },
+  "keywords": [
+    "testing",
+    "jest",
+    "react-testing-library"
+  ],
+  "author": "@RLPereira",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rafaellimapereira/tjs-kcd/issues"
+  },
+  "homepage": "https://github.com/rafaellimapereira/tjs-kcd#readme",
+  "devDependencies": {
+    "jest": "^27.2.1"
+  }
+}
